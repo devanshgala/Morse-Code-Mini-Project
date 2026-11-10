@@ -1,1 +1,1 @@
-Hello, This is a test file for testing file Handling in Morse Code.
+Hello, This is a test file for encoding text from a file using file handling.
