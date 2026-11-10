@@ -250,8 +250,8 @@ public class MorseCode {
         String filePath = "";
         byte choice = 0;
 
-        System.out.println("Object-Oriented Programming Lab Mini Project: Morse Code");
-        System.out.println("By Devansh Gala (BC14) | Kiana Hirani (BC02) | Priyank Mehta (BC32) | Riya Bhansali (BC22)");
+        System.out.println("Spoken Tutorial Project: Morse Code");
+        System.out.println("By Devansh Gala | SY BC14");
         DatabaseManager.initialize(scanner);
 
         while (true) {
